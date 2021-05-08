@@ -7,7 +7,7 @@ Herramienta de Administracion de base de datos de una compañia de Marketing
 
 Clonar proyecto desde consola o descargar desde el repositorio:_
 
-git clone 
+git clone https://github.com/EmiCano24/DataWarehouse.git
 
 ## Instalación 🔧
 
